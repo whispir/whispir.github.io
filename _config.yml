@@ -1,0 +1,8 @@
+title: Whispir.io
+description: Bring the power of conversation to your apps
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
